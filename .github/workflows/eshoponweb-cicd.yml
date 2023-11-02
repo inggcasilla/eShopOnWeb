@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-Geraldo
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: 8bb688f0-e871-49b2-a046-301dbcd71359
   WEBAPP-NAME: az400-webapp-Geraldo
 
 
